@@ -68,7 +68,7 @@ while True:
 Seu saldo é de {saldo} reais.""")
             
             elif excedeu_limite:
-                print(f"O valor de saque excede o limtie de R$ {limite_saque:.2f}. Por favor, tente um valor menor.")
+                print(f"O valor de saque excede o limite de R$ {limite_saque:.2f}. Por favor, tente um valor menor.")
             else:
                 saldo -= valor_saque
                 extrato += f"Saque: R$ {valor_saque:.2f}\n" 
