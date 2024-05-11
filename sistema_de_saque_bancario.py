@@ -1,5 +1,5 @@
 #DESAFIO: Criando um sistema bancário
-##Criado pelo Guilherme Arthur de Carvalho / @decarvalhogui / Web.Dio.Me
+##Desafio criado pelo Guilherme Arthur de Carvalho / @decarvalhogui / Web.Dio.Me
 
 ## O sistema deve permitir realizar 3 saques diários com limite de 500 R$
 ## O sistema só vai ter 1 usuário para não se preocupar com dados da agência e conta
